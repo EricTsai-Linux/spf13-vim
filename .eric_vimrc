@@ -13,3 +13,9 @@ vnoremap <space> :
     set nojoinspaces                " Prevents inserting two spaces after punctuation on a join (J)
 
 " }
+
+" Vim UI {
+
+    set nolist
+
+" }
