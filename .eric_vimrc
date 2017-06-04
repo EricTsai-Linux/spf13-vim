@@ -1,1 +1,5 @@
 " This is my vimrc file for add my config
+
+" Space to command mode.
+nnoremap <space> :
+vnoremap <space> :
