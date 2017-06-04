@@ -1249,3 +1249,6 @@
         endif
     endif
 " }
+
+" include my vimrc
+source ~/.spf13-vim-3/.eric_vimrc
